@@ -1,0 +1,28 @@
+# Private institutional data
+data/private/
+*.xlsx
+*.xls
+*.xlsm
+data/private/*.csv
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+~$*
